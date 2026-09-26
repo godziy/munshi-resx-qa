@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chayan8005.github.io/munshi-resx-qa/sitemap.xml
